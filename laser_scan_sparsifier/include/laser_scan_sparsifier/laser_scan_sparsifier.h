@@ -52,7 +52,7 @@ class LaserScanSparsifier
 
     // **** paramaters
 
-    int step_;
+    int target_size_;
 
     // **** member functions
 
